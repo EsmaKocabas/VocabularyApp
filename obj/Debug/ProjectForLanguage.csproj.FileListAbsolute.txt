@@ -1,0 +1,109 @@
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\bin\Debug\ProjectForLanguage.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmLogin.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.Properties.Resources.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.GenerateResource.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmRegister.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmForgotcs.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmMainPage.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmQuiz.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmAddWord.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmSettings.resources
+C:\Users\MONSTER\OneDrive\Masaüstü\YAZILIM C# DOSYALARI\ConsoleApp6\ConsoleApp6\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmWords.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe.config
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\bin\Debug\ProjectForLanguage.pdb
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmLogin.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmAddWord.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmForgotcs.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmMainPage.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmQuiz.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmRegister.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmSettings.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmWords.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.Properties.Resources.resources
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.GenerateResource.cache
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.exe
+C:\Users\İbrahim\Desktop\ProjectForLanguage\ProjectForLanguage\obj\Debug\ProjectForLanguage.pdb
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe.config
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\bin\Debug\ProjectForLanguage.pdb
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmLogin.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmAddWord.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmForgotcs.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmMainPage.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmQuiz.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmRegister.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmSettings.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmWords.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.Properties.Resources.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.QuizResults.resources
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.GenerateResource.cache
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.exe
+C:\Users\İbrahim\Desktop\dil\ProjectForLanguage\obj\Debug\ProjectForLanguage.pdb
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe.config
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.pdb
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.AssemblyReference.cache
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmLogin.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmAddWord.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmForgotcs.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmMainPage.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmQuiz.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmRegister.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmSettings.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmWords.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.Properties.Resources.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.QuizResults.resources
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.GenerateResource.cache
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.exe
+C:\Users\İbrahim\Desktop\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.pdb
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe.config
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.pdb
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.SuggestedBindingRedirects.cache
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmLogin.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmAddWord.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmForgotcs.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmMainPage.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmQuiz.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmRegister.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmSettings.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmWords.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.Properties.Resources.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.QuizResults.resources
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.GenerateResource.cache
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.exe
+C:\Users\MONSTER\Downloads\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.pdb
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe.config
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.exe
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\bin\Debug\ProjectForLanguage.pdb
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.AssemblyReference.cache
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmLogin.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmAddWord.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmForgotcs.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmMainPage.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmQuiz.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmRegister.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmSettings.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmWords.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.Properties.Resources.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.QuizResults.resources
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.GenerateResource.cache
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.csproj.CoreCompileInputs.cache
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.exe
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.pdb
+C:\Users\Esma\Desktop\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son) (2)[2]\ProjectLanguage(Son)\ProjectForLanguage\obj\Debug\ProjectForLanguage.FrmWordle.resources
