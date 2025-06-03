@@ -26,8 +26,9 @@ jobs:
         run: msbuild ProjectForLanguage.sln /p:Configuration=Release
 
       - name: SonarCloud Scan
-        uses: SonarSource/sonarcloud-github-action@master
+        uses: SonarSource/sonarqube-scan-action@v5.0.0
         with:
           args: >
             -Dsonar.projectKey=EsmaKocabas_VocabularyApp
-            -Dsonar.organization=EsmaKoca
+            -Dsonar.organization=EsmaKocabas
+            -Dsonar.host.url=https://sonarcloud.io
