@@ -13,25 +13,30 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - name: Checkout code
+      - name: Kodu çek
         uses: actions/checkout@v3
 
-      - name: Setup MSBuild
+      - name: MSBuild Kurulumu
         uses: microsoft/setup-msbuild@v1.1
 
-      - name: Restore NuGet packages
+      - name: SonarScanner for MSBuild Kurulumu
+        run: |
+          dotnet tool install --global dotnet-sonarscanner
+
+      - name: SonarCloud Analizini Başlat
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN2 }}
+        run: |
+          dotnet sonarscanner begin /k:"esmakocabas" /o:"EsmaKocabas" /d:sonar.login="${{ secrets.SONAR_TOKEN2 }}" /d:sonar.host.url="https://sonarcloud.io"
+
+      - name: NuGet Paketlerini Yükle
         run: nuget restore ProjectForLanguage.sln
 
-      - name: Build solution
+      - name: Projeyi Derle
         run: msbuild ProjectForLanguage.sln /p:Configuration=Release
 
-      - name: SonarCloud Scan
-        uses: SonarSource/sonarqube-scan-action@v5.0.0
+      - name: SonarCloud Analizini Bitir
         env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-        with:
-          args: >
-            -Dsonar.projectKey=esmakocabas
-            -Dsonar.organization=EsmaKocabas
-            -Dsonar.host.url=https://sonarcloud.io
-
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN2 }}
+        run: |
+          dotnet sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN2 }}"
