@@ -19,24 +19,23 @@ jobs:
       - name: MSBuild Kurulumu
         uses: microsoft/setup-msbuild@v1.1
 
-      - name: SonarScanner for MSBuild Kurulumu
-        run: |
-          dotnet tool install --global dotnet-sonarscanner
+      - name: NuGet Paketlerini Yükle
+        run: nuget restore ProjectForLanguage.sln
+
+      - name: SonarScanner for .NET Kurulumu
+        run: dotnet tool install --global dotnet-sonarscanner
 
       - name: SonarCloud Analizini Başlat
         env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN2 }}
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         run: |
-          dotnet sonarscanner begin /k:"vocabularyapp" /o:"esmakocabas" /d:sonar.login="${{ secrets.SONAR_TOKEN2 }}" /d:sonar.host.url="https://sonarcloud.io"
-
-      - name: NuGet Paketlerini Yükle
-        run: nuget restore ProjectForLanguage.sln
+          dotnet sonarscanner begin /k:"EsmaKocabas_VocabularyApp" /o:"esmakocabas" /d:sonar.login="${{ secrets.SONAR_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
 
       - name: Projeyi Derle
         run: msbuild ProjectForLanguage.sln /p:Configuration=Release
 
       - name: SonarCloud Analizini Bitir
         env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN2 }}
-        run: |
-          dotnet sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN2 }}"
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+        run: dotnet sonarscanner end /d:sonar.login="${{ secrets.SONAR_TOKEN }}"
+
