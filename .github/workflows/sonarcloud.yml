@@ -27,8 +27,11 @@ jobs:
 
       - name: SonarCloud Scan
         uses: SonarSource/sonarqube-scan-action@v5.0.0
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
           args: >
             -Dsonar.projectKey=EsmaKocabas_VocabularyApp
             -Dsonar.organization=EsmaKocabas
             -Dsonar.host.url=https://sonarcloud.io
+
