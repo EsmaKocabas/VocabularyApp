@@ -1,4 +1,4 @@
-name: SonarCloud
+name: Build .NET Framework Project with SonarCloud
 
 on:
   push:
@@ -13,23 +13,21 @@ jobs:
     runs-on: windows-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '6.0.x'  
-      - name: Install dependencies
-        run: dotnet restore
+      - name: Setup MSBuild
+        uses: microsoft/setup-msbuild@v1.1
 
-      - name: Build
-        run: dotnet build --no-restore
+      - name: Restore NuGet packages
+        run: nuget restore ProjectForLanguage.sln
+
+      - name: Build solution
+        run: msbuild ProjectForLanguage.sln /p:Configuration=Release
 
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
         with:
           args: >
             -Dsonar.projectKey=EsmaKocabas_VocabularyApp
-            -Dsonar.organization=EsmaKocabas
-            -Dsonar.host.url=https://sonarcloud.io
-            -Dsonar.login=${{ secrets.SONAR_TOKEN }}
+            -Dsonar.organization=EsmaKoca
